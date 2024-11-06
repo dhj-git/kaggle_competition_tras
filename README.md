@@ -28,7 +28,7 @@
 
 #### 提交
 
-您必须使用提供的 Python 评估 API 提交此竞赛，该 API 会按随机顺序逐个提供测试集实例。要使用该 API，请遵循此notebook[https://www.kaggle.com/code/ryanholbrook/aimo-2-submission-demo]中的模板。
+您必须使用提供的 Python 评估 API 提交此竞赛，该 API 会按随机顺序逐个提供测试集实例。要使用该 API，请遵循此notebook [https://www.kaggle.com/code/ryanholbrook/aimo-2-submission-demo] 中的模板。
 
 CPU Notebook <= 9 小时运行时间
 
@@ -66,7 +66,7 @@ n!对于整数，表示阶乘函数 n!=n⋅(n−1)⋅(n−2)⋯2⋅1
 
 log、sin、cos通常处于数学模式
 
-...........详情查看原网页[https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2/overview]
+...........详情查看原网页 [https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2/overview]
 
 #### 数据描述
 
